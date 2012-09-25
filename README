@@ -1,0 +1,24 @@
+Yii BootStrap Theme
+================================
+
+This is a Yii port of BootStrap's starter template http://twitter.github.com/bootstrap/examples/starter-template.html
+
+Dependencies
+-------------------------
+
+Yii Bootstrap Extension
+
+* http://www.yiiframework.com/extension/bootstrap/
+* https://bitbucket.org/Crisu83/yii-bootstrap
+
+Installation
+-------------------------
+
+After installing all dependencies just add the theme to application configuration file.
+	
+<pre>
+	'theme'=>'YiiBootStrapTheme',
+</pre>
+
+
+
